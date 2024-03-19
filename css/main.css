@@ -30,7 +30,7 @@ html{scroll-behavior: smooth;}
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 8vw;
+    gap: 40px;
     margin-top: 200px;
 }
 
@@ -86,7 +86,6 @@ html{scroll-behavior: smooth;}
 footer {
     position: absolute;
     color: rgb(46, 46, 46);
-    left: 0;
     width: 100%;
     text-align: center;
     padding: 40px 0 50px 0;
